@@ -80,3 +80,5 @@ To build a robust application with the described requirements using FastAPI and 
 ### Development Tips:  
 - Start with defining database models and API schemas.  
 - Develop and test each
+
+Please remember at the end to prepare TODO file fith all necessary tasks.
